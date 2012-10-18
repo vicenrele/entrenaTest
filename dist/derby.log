@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri Jun 15 18:13:13 CEST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0137-f0eb-790b-000000520618 
+on database directory E:\Mis documentos\INFORMÁTICA\ASIGNATURAS EN CURSO\POO\Trabajo práctico\Aplicación EntrenaTEST\entrenaTest\dist\entrenaTestBBDD  with class loader sun.misc.Launcher$AppClassLoader@6b97fd 
+Loaded from file:/E:/Mis%20documentos/INFORM%c3%81TICA/ASIGNATURAS%20EN%20CURSO/POO/Trabajo%20pr%c3%a1ctico/Aplicaci%c3%b3n%20EntrenaTEST/entrenaTest/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_03-b05
+user.dir=E:\Mis documentos\INFORMÁTICA\ASIGNATURAS EN CURSO\POO\Trabajo práctico\Aplicación EntrenaTEST\entrenaTest\dist
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Jun 15 18:39:07 CEST 2012: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Jun 15 18:39:07 CEST 2012:
+Shutting down instance a816c00e-0137-f0eb-790b-000000520618 on database directory E:\Mis documentos\INFORMÁTICA\ASIGNATURAS EN CURSO\POO\Trabajo práctico\Aplicación EntrenaTEST\entrenaTest\dist\entrenaTestBBDD with class loader sun.misc.Launcher$AppClassLoader@6b97fd 
+----------------------------------------------------------------

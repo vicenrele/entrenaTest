@@ -1,0 +1,16 @@
+1.Cambios en EntrenaTest: 
+-añadir en método verPantJugador()
+linea 301: this.posicion = 1;
+
+-descomentar lineas: 481-486 
+
+
+
+2.Cambios en PantallaTest (menos importante):
+-linea 294: modificar por: 
+etiquetaPregunta = new JLabel("HAS FALLADO!!");
+
+-linea 302: tamaño de letra 20 (antes estaba a 30)
+
+-linea 303: modificar por:
+respuestaCorrecta.setBounds(85, 150, 600, 300);
