@@ -1,0 +1,15 @@
+EntrénaTEST es una aplicación desarrollada en Java, 
+que para ejecutarse necesita la instalación del JRE 
+(Entorno de Ejecución de Java) que se puede descargar 
+desde la siguiente dirección:
+
+http://www.java.com/es/download/
+
+
+Una vez instalado el entorno de Java es solo hacer 
+click en el ejecutable entrenaTest y disfrutar de la aplicación.
+
+
+Esta versión de entrenaTest solo permite gestionar test
+de 3 respuestas y dichas respuestas deben ser cortas.
+Próximamente habrá mejoras...
